@@ -76,7 +76,7 @@ These values were obtained experimentally by observing overshoot, responsiveness
 ```
 One-Axis-Gimbal/
 │
-├── One_Axis_Gimbal.ino
+├── main.ino
 ├── README.md
 └── test-codes/
     ├── P-cont-only.ino
